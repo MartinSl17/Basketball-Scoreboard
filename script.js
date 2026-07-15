@@ -51,6 +51,7 @@ function resetHomeScores() {
 
 }
 
+
 function resetGuestScores() {
 
     guestCount = 0
